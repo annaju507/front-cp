@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-card: #1A1A1A;
+  --color-titulo: #E56FA5;
+  --color-paragrafo: #7DCB8A;
+  --color-botao: #BA1650;
+  --color-botao-texto: #FFF4F8;
+  --font-titulo: "Bebas Neue", sans-serif;
+  --font-paragrafo: "Poppins", sans-serif;
+  --font-botao: "Bebas Neue", sans-serif;
+}
